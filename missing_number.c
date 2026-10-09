@@ -10,7 +10,7 @@ if (n<2)
 printf("Invalid value of n.\n");
 return 0; 
 }
-printf("Enter %d numbers:\n", n-1):
+printf("Enter %d numbers:\n", n-1);
   for (i=0; i<n-1; i++)
 {
 int num;
